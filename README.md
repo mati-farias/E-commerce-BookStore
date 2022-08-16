@@ -4,9 +4,9 @@ E-commerce - BookStore repository
 
 #Installs
 
--   npm i axios
--   npm i dotenv
--   npm i cors (inside api folder)
+-   npm install both api and client folder
+-   npm start for API
+-   npm run dev for client
 
 # Technologies that would be used all the way along the proyect:
 
